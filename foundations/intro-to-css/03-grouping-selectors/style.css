@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.inverted,
+.highlighted {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.inverted {
+    background-color: #2E2C2B;
+    color: rgb(255, 255, 255);
+}
+
+.highlighted {
+    background-color: rgb(212, 204, 51);
+}
