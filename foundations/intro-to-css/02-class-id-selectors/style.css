@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+/* odd numbered elements */
+.alert-text {
+    background-color: #F7A09C;
+    font-family: "Verdana", "DejaVu-Sans", "sans-serif";
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(16, 79, 220);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: rgb(54, 245, 79);
+    font-size: 24px;
+    font-weight: bold;
+}
